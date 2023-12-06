@@ -1,3 +1,19 @@
+HTML
+<div>
+                <div class="twirlAnimationContainer position-absolute">
+                    <div class="kirbyTwirl1"><img src="/static/images/animation/kirbyTwirl1.png" alt="kirby1" class="position-absolute kirbyTwirl1"></div>
+                    <div class="kirbyTwirl2"><img src="/static/images/animation/kirbyTwirl2.png" alt="kirby2" class="position-absolute kirbyTwirl2"></div>
+                    <div class="kirbyTwirl3"><img src="/static/images/animation/kirbyTwirl3.png" alt="kirby3" class="position-absolute kirbyTwirl3"></div>
+                    <div class="kirbyTwirl4"><img src="/static/images/animation/kirbyTwirl4.png" alt="kirby4" class="position-absolute kirbyTwirl4"></div>
+                    <div class="kirbyTwirl5"><img src="/static/images/animation/kirbyTwirl5.png" alt="kirby5" class="position-absolute kirbyTwirl5"></div>
+                    <div class="kirbyTwirl6"><img src="/static/images/animation/kirbyTwirl6.png" alt="kirby6" class="position-absolute kirbyTwirl6"></div>
+                    <div class="kirbyTwirl7"><img src="/static/images/animation/kirbyTwirl7.png" alt="kirby7" class="position-absolute kirbyTwirl7"></div>
+                    <div class="kirbyTwirl8"><img src="/static/images/animation/kirbyTwirl8.png" alt="kirby8" class="position-absolute kirbyTwirl8"></div>
+                    <div class="kirbyTwirl9"><img src="/static/images/animation/kirbyTwirl1.png" alt="kirby9" class="position-absolute kirbyTwirl9"></div>
+                </div>
+            </div>
+
+CSS
 .kirbyTwirl1 {
     animation: kirbyTwirl1 5s linear infinite;
 }
