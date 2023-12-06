@@ -1,0 +1,179 @@
+.kirbyTwirl1 {
+    animation: kirbyTwirl1 5s linear infinite;
+}
+
+.kirbyTwirl2 {
+    animation: kirbyTwirl2 5s linear infinite;
+}
+
+.kirbyTwirl3 {
+    animation: kirbyTwirl3 5s linear infinite;
+}
+
+.kirbyTwirl4 {
+    animation: kirbyTwirl4 5s linear infinite;
+}
+
+.kirbyTwirl5 {
+    animation: kirbyTwirl5 5s linear infinite;
+}
+
+.kirbyTwirl6 {
+    animation: kirbyTwirl6 5s linear infinite;
+}
+
+.kirbyTwirl7 {
+    animation: kirbyTwirl7 5s linear infinite;
+}
+
+.kirbyTwirl8 {
+    animation: kirbyTwirl8 5s linear infinite;
+}
+
+.kirbyTwirl9 {
+    animation: kirbyTwirl1 5s linear infinite;
+}
+
+.kirbyTwirl1 img {
+    height: 48px;
+    width: 48px;
+    filter: drop-shadow(5px 5px 5px rgba(58, 58, 65, 0.49));
+}
+
+.kirbyTwirl2 img {
+    height: 48px;
+    width: 48px;
+    filter: drop-shadow(5px 5px 5px rgba(58, 58, 65, 0.49));
+
+}
+
+.kirbyTwirl3 img {
+    height: 48px;
+    width: 48px;
+    filter: drop-shadow(5px 5px 5px rgba(58, 58, 65, 0.49));
+}
+
+.kirbyTwirl4 img {
+    height: 48px;
+    width: 48px;
+    filter: drop-shadow(5px 5px 5px rgba(58, 58, 65, 0.49));
+
+}
+
+.kirbyTwirl5 img {
+    height: 48px;
+    width: 48px;
+    filter: drop-shadow(5px 5px 5px rgba(58, 58, 65, 0.49));
+}
+
+.kirbyTwirl6 img {
+    height: 48px;
+    width: 48px;
+    filter: drop-shadow(5px 5px 5px rgba(58, 58, 65, 0.49));
+
+}
+
+.kirbyTwirl7 img {
+    height: 48px;
+    width: 48px;
+    filter: drop-shadow(5px 5px 5px rgba(58, 58, 65, 0.49));
+}
+
+.kirbyTwirl8 img {
+    height: 48px;
+    width: 48px;
+    filter: drop-shadow(5px 5px 5px rgba(58, 58, 65, 0.49));
+}
+
+.kirbyTwirl9 img {
+    height: 48px;
+    width: 48px;
+    filter: drop-shadow(5px 5px 5px rgba(58, 58, 65, 0.49));
+}
+
+
+@keyframes kirbyTwirl1 {
+    0%, 100% { opacity: 1; }
+    6.25%, 12.5%, 18.75%, 25%, 31.25%, 37.5%, 43.75%, 50%, 56.25%, 62.5%, 68.75%, 75%, 81.25%, 87.5%, 93.75% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl2 {
+    6.25% { opacity: 1; }
+    0%, 12.5%, 18.75%, 25%, 31.25%, 37.5%, 43.75%, 50%, 56.25%, 62.5%, 68.75%, 75%, 81.25%, 87.5%, 93.75%, 100% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl3 {
+    12.5% { opacity: 1; }
+    0%, 6.25%, 18.75%, 25%, 31.25%, 37.5%, 43.75%, 50%, 56.25%, 62.5%, 68.75%, 75%, 81.25%, 87.5%, 93.75%, 100% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl4 {
+    18.75% { opacity: 1; }
+    0%, 6.25%, 12.5%, 25%, 31.25%, 37.5%, 43.75%, 50%, 56.25%, 62.5%, 68.75%, 75%, 81.25%, 87.5%, 93.75%, 100% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl5 {
+    25% { opacity: 1; }
+    0%, 6.25%, 12.5%, 18.75%, 31.25%, 37.5%, 43.75%, 50%, 56.25%, 62.5%, 68.75%, 75%, 81.25%, 87.5%, 93.75%, 100% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl6 {
+    31.25% { opacity: 1; }
+    0%, 6.25%, 12.5%, 18.75%, 25%, 37.5%, 43.75%, 50%, 56.25%, 62.5%, 68.75%, 75%, 81.25%, 87.5%, 93.75%, 100% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl7 {
+    37.5% { opacity: 1; }
+    0%, 6.25%, 12.5%, 18.75%, 25%, 31.25%, 43.75%, 50%, 56.25%, 62.5%, 68.75%, 75%, 81.25%, 87.5%, 93.75%, 100% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl8 {
+    43.75% { opacity: 1; }
+    0%, 6.25%, 12.5%, 18.75%, 25%, 31.25%, 37.5%, 50%, 56.25%, 62.5%, 68.75%, 75%, 81.25%, 87.5%, 93.75%, 100% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl9 {
+    50%, 56.25%{ opacity: 1; }
+    0%, 6.25%, 12.5%, 18.75%, 25%, 31.25%, 37.5%, 43.75%, 62.5%, 68.75%, 75%, 81.25%, 87.5%, 93.75%, 100% { opacity: 0; }
+}
+
+
+/*@keyframes kirbyTwirl1 {
+    0%, 100% { opacity: 1; }
+    12.5%, 25%, 37.5%, 50%, 62.5%, 75%, 87.5% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl2 {
+    12.5% { opacity: 1; }
+    0%, 25%, 37.5%, 50%, 62.5%, 75%, 87.5%, 100% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl3 {
+    25% { opacity: 1; }
+    0%, 12.5%, 37.5%, 50%, 62.5%, 75%, 87.5%, 100% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl4 {
+    37.5% { opacity: 1; }
+    0%, 12.5%, 25%, 50%, 62.5%, 75%, 87.5%, 100% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl5 {
+    50% { opacity: 1; }
+    0%, 12.5%, 25%, 37.5%, 62.5%, 75%, 87.5%, 100% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl6 {
+    62.5% { opacity: 1; }
+    0%, 12.5%, 25%, 37.5%, 50%, 75%, 87.5%, 100% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl7 {
+    75% { opacity: 1; }
+    0%, 12.5%, 25%, 37.5%, 50%, 62.5%, 87.5%, 100% { opacity: 0; }
+}
+
+@keyframes kirbyTwirl8 {
+    87.5% { opacity: 1; }
+    0%, 12.5%, 25%, 37.5%, 50%, 62.5%, 75%, 100% { opacity: 0; }
+}*/
